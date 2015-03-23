@@ -1,9 +1,9 @@
-//  CustomFllow.cpp
+//  CustomFollow.cpp
 //
 //  Created by rinov.
 //
 
-#include "CustomFllow.h"
+#include "CustomFollow.h"
 
 USING_NS_CC;
 
