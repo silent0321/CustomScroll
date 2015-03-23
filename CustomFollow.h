@@ -3,8 +3,8 @@
 //  Created by rinov.
 //
 
-#ifndef __COCOS2DX__CustomFllow__
-#define __COCOS2DX__CustomFllow__
+#ifndef __COCOS2DX__CustomFollow__
+#define __COCOS2DX__CustomFollow__
 
 #include "cocos2d.h"
 
